@@ -13,11 +13,18 @@ Documentation and learning resources repository.
 ### Tools
 - [Photopea - Online Photo Editor](https://www.photopea.com/)
 - [Manim Community - Mathematical Animation Engine](https://www.manim.community/)
+- [3Blue1Brown Manim Animations](https://github.com/3b1b/videos)
 - [FileSender - RENATER](https://filesender.renater.fr/?s=home)
 - [Google Ngram Viewer](https://books.google.com/ngrams)
 - [Tune My Music - Transfer Playlists](https://www.tunemymusic.com/)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
 - [DeNoise AI](https://www.topazlabs.com/denoise-ai)
+- [PathCrawler Online - Automated Testing](http://pathcrawler-online.com:8080/doWelcome#about)
+- [GoEnhance AI - Video Enhancement](https://app.goenhance.ai/text-to-image)
+- [Luma Dream Machine - AI Video Generator](https://lumalabs.ai/dream-machine/creations)
+- [Mermaid Live Editor - Flowcharts & Diagrams](https://mermaid.live)
+- [MuscleWiki - Exercise Guide](https://musclewiki.com/)
+- [List of LaTeX Mathematical Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 
 ### LaTeX Resources
 - [Overleaf LaTeX Templates](https://www.overleaf.com/latex/templates)
@@ -25,3 +32,9 @@ Documentation and learning resources repository.
 - [Inserting Images in LaTeX](https://www.overleaf.com/learn/latex/Inserting_Images)
 - [Headers and Footers in LaTeX](https://www.overleaf.com/learn/latex/Headers_and_footers)
 - [Typesetting Exams in LaTeX](https://www.overleaf.com/learn/latex/Typesetting_exams_in_LaTeX)
+
+#### University Beamer Templates
+- [Sorbonne Université Presentation](https://www.overleaf.com/read/xvdgxqkbzfnk)
+- [Université de Lorraine Presentation](https://www.overleaf.com/read/fmqybxnrpqzg)
+- [BeamerULille Template](https://www.overleaf.com/latex/templates/beamerulille/xvdgxqkbzfnk)
+- [ISAE-SUPAERO Beamer](https://www.overleaf.com/latex/templates/isae-supaero-beamer-template/xgbpnqkbzfhk)

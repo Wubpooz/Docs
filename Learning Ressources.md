@@ -5,6 +5,7 @@
   - [Algebra](#algebra)
   - [Probability](#probability)
 - [Computer Science](#computer-science)
+  - [Programming & Web Development](#programming--web-development)
   - [Security](#security)
   - [LLMs](#llms)
   - [Typing](#typing)
@@ -19,6 +20,7 @@
 - [Physics](#physics)
 - [Languages](#languages)
   - [Arabic](#arabic)
+  - [African Languages](#african-languages)
   - [General](#general)
 - [Medicine & Health](#medicine--health)
 
@@ -26,6 +28,7 @@
 ### Algebra
 - [Cours de Maths 254 2020/2021 de l'université Paris Saclay](https://kevindestagnol.github.io/algebre.github.io/) & [Source](https://github.com/KevinDestagnol/algebre.github.io)
 - [Algèbre Commutative et Effective – MA2 ACE](http://sagebook.gforge.inria.fr/)
+- [École Polytechnique - MAT556 Groupes, Anneaux, Modules](https://moodle.polytechnique.fr/course/view.php?id=9421#section-0)
 
 ### Probability
 - [Matheo d'Achille](https://matteodachille.github.io/teaching)
@@ -33,12 +36,19 @@
 &nbsp;  
 &nbsp;  
 ## Computer Science
+### Programming & Web Development
+- [p5.js Interactive Learning](https://p5js.org/learn/interactivity.html)
+- [OpenClassrooms - PHP Forms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires)
+- [OpenClassrooms - Java Programming](https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/23108-creez-votre-premiere-fenetre)
+- [Assembly Language Tutorial](https://riptutorial.com/assembly)
+
 ### Security
 - [API Security Courses](https://university.apisec.ai/library)
 - [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [IBM Ethical Hacking with Open Source Tools Professional](https://www.coursera.org/professional-certificates/ibm-ethical-hacking-with-open-source-tools)
 - [Root Me: Hacking and Information Security Learning Platform](https://www.root-me.org/?lang=en)
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+- [OpenClassrooms - Cryptography Fundamentals](https://openclassrooms.com/fr/courses/1757741-securisez-vos-donnees-avec-la-cryptographie/6031863-generez-des-nombres-aleatoires)
 
 ### LLMs
 - [LLM Tools and Papers](https://github.com/PetroIvaniuk/llms-tools)
@@ -48,6 +58,8 @@
 
 ### Computer Architecture
 - [Polytech Paris-Saclay ET4 Architecture](https://laveaumarie.github.io/ET4_Archi.html)
+- [École Polytechnique - Computer Science Courses (3rd Year)](https://www.enseignement.polytechnique.fr/informatique/3A/3A.php)
+- [École Polytechnique - INF412 Logic & Computation](https://moodle.polytechnique.fr/course/view.php?id=17298)
 
 ### Machine Learning
 - [JillJen's slides](https://jilljenn.github.io/slides/)
@@ -82,12 +94,18 @@
 ## Physics
 - [The Feynman Lectures on Physics](https://feynmanlectures.caltech.edu/)
 - [IOGS - Catalogue des Cours](http://paristech.institutoptique.fr/index.php?domaine=149)
+- [Online Physics Classes Guide](https://docs.google.com/document/u/0/d/1CW8sE9ywo62TN0KBZ6tZdhfpyfhgVe2CL6uUotVR1W0/mobilebasic)
 
 &nbsp;  
 &nbsp;  
 ## Languages
 ### Arabic
 - [Learn Arabic (FSI) Free Courses](https://www.livelingua.com/courses/arabic)
+
+### African Languages
+- [Dyula Language - Wikipedia](https://en.wikipedia.org/wiki/Dyula_language)
+- [Swahili Language - Wikipedia](https://en.wikipedia.org/wiki/Swahili_language)
+- [Wolof Language - Wikipedia](https://en.wikipedia.org/wiki/Wolof_language)
 
 ### General
 - [Varieties of Arabic - Wikipedia](https://en.wikipedia.org/wiki/Varieties_of_Arabic)
@@ -98,3 +116,4 @@
 - [Campus Odontologie](http://campus.cerimes.fr/odontologie/enseignement/index.htm)
 - [UNF3S - Campus Numeriques](https://www.unf3s.org/)
 - [Protein Folding and Structure](http://biochimej.univ-angers.fr/Page2/COURS/7RelStructFonction/4Repliement/1Repliement.htm)
+- [High Homocysteine - Linus Pauling Institute](https://lpi.oregonstate.edu/mic/health-disease/high-homocysteine)
