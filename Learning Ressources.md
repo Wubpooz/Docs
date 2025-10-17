@@ -4,9 +4,11 @@
 - [Mathematics](#mathematics)
   - [Algebra](#algebra)
   - [Probability](#probability)
+  - [Analysis](#analysis)
   - [Mathematical Reference](#mathematical-reference)
 - [Computer Science](#computer-science)
   - [Programming & Web Development](#programming--web-development)
+  - [Advanced Computer Science](#advanced-computer-science)
   - [Security](#security)
   - [LLMs](#llms)
   - [Typing](#typing)
@@ -35,8 +37,12 @@
 ### Probability
 - [Matheo d'Achille](https://matteodachille.github.io/teaching)
 
+### Analysis
+- [École Polytechnique - MAT431 Fourier Analysis](http://www.cmls.polytechnique.fr/perso/golse/mat431.html)
+
 ### Mathematical Reference
 - [Wolfram MathWorld - Kronecker Delta](https://mathworld.wolfram.com/KroneckerDelta.html)
+- [École Polytechnique - Math Exercises](http://www.math.polytechnique.fr/perso/harinck/formationEV2.html)
 
 &nbsp;  
 &nbsp;  
@@ -54,6 +60,12 @@
 - [W3Schools - CSS Images](https://www.w3schools.com/css/css3_images.asp)
 - [W3Schools - JavaScript Display Checkbox Text](https://www.w3schools.com/howto/howto_js_display_checkbox_text.asp)
 - [Stack Overflow - Compiling Static Library in Linux](https://stackoverflow.com/questions/2734719/how-to-compile-a-static-library-in-linux)
+- [OpenGL Tutorials - Song Ho Ahn](http://www.songho.ca/opengl/index.html)
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- [NVIDIA GauGAN - AI Image Generation](http://nvidia-research-mingyuliu.com/gaugan/)
+
+### Advanced Computer Science
+- [MPRI - Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/)
 
 ### Security
 - [API Security Courses](https://university.apisec.ai/library)
@@ -115,6 +127,7 @@
 - [The Feynman Lectures on Physics](https://feynmanlectures.caltech.edu/)
 - [IOGS - Catalogue des Cours](http://paristech.institutoptique.fr/index.php?domaine=149)
 - [Online Physics Classes Guide](https://docs.google.com/document/u/0/d/1CW8sE9ywo62TN0KBZ6tZdhfpyfhgVe2CL6uUotVR1W0/mobilebasic)
+- [École Polytechnique - MAT567 Diffusion Equations](http://www.cmls.polytechnique.fr/perso/golse/mat567.html)
 
 &nbsp;  
 &nbsp;  
