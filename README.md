@@ -10,6 +10,12 @@ Documentation and learning resources repository.
 ### Resources
 - [Notion Dashboard](https://www.notion.so/Dashboard-26bf17921620805cbc6ec38d5a9cbc83?source=copy_link)
 
+### Scholarly & Reference
+- [Google Scholar](https://scholar.google.fr/)
+- [arXiv.org - Scientific Papers](https://arxiv.org/)
+- [Cambridge Dictionary](https://dictionary.cambridge.org/)
+- [Encyclopaedia Britannica Online](http://onlinebooks.library.upenn.edu/webbin/metabook?id=britannica11)
+
 ### Tools
 - [Photopea - Online Photo Editor](https://www.photopea.com/)
 - [Manim Community - Mathematical Animation Engine](https://www.manim.community/)

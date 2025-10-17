@@ -17,6 +17,7 @@
 - [Management](#management)
   - [Project Management](#project-management)
   - [Negotiation](#negotiation)
+- [Classes Préparatoires (CPGE)](#classes-préparatoires-cpge)
 - [Physics](#physics)
 - [Languages](#languages)
   - [Arabic](#arabic)
@@ -41,6 +42,10 @@
 - [OpenClassrooms - PHP Forms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/913099-transmettez-des-donnees-avec-les-formulaires)
 - [OpenClassrooms - Java Programming](https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java/23108-creez-votre-premiere-fenetre)
 - [Assembly Language Tutorial](https://riptutorial.com/assembly)
+- [Apprendre à programmer avec Python](https://python.developpez.com/cours/TutoSwinnen/)
+- [Free Programming Books by Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+- [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 
 ### Security
 - [API Security Courses](https://university.apisec.ai/library)
@@ -88,6 +93,13 @@
 ### Negotiation
 - [Ne coupez jamais la poire en deux](https://www.fnac.com/a13646988/Chris-Voss-Ne-coupez-jamais-la-poire-en-deux?oref=00000000-0000-0000-0000-000000000000&storecode=6910&Origin=SEA_GOOGLE_PLA_BOOKS&esl-k=google-ads%7Cnx%7Cc%7Cm%7Ck%7Cp%7Ct%7Cdc%7Ca20111491090%7Cg20111491090&gclsrc=aw.ds&gad_source=1&gad_campaignid=19663887777&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjyBvlReI-J_RMBi8Y7yscZFDXg8I_y4B0dZUSF75gjabaYKQFKGBgYaAgY2EALw_wcB)
 - 
+
+&nbsp;  
+&nbsp;  
+## Classes Préparatoires (CPGE)
+- [FIMFA - Polycopiés de cours ENS](http://www.math.ens.fr/enseignement/archives_pedagogiques.html?type=1)
+- [Sujets de Concours Maths CPGE](http://concours-maths-cpge.fr/)
+- [Forum Prepas.org - Corrections & Discussions](https://forum.prepas.org/)
 
 &nbsp;  
 &nbsp;  
