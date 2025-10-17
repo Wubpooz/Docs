@@ -4,6 +4,7 @@
 - [Mathematics](#mathematics)
   - [Algebra](#algebra)
   - [Probability](#probability)
+  - [Mathematical Reference](#mathematical-reference)
 - [Computer Science](#computer-science)
   - [Programming & Web Development](#programming--web-development)
   - [Security](#security)
@@ -34,6 +35,9 @@
 ### Probability
 - [Matheo d'Achille](https://matteodachille.github.io/teaching)
 
+### Mathematical Reference
+- [Wolfram MathWorld - Kronecker Delta](https://mathworld.wolfram.com/KroneckerDelta.html)
+
 &nbsp;  
 &nbsp;  
 ## Computer Science
@@ -46,6 +50,10 @@
 - [Free Programming Books by Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 - [3D Game Shaders for Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
+- [W3Schools - CSS Images](https://www.w3schools.com/css/css3_images.asp)
+- [W3Schools - JavaScript Display Checkbox Text](https://www.w3schools.com/howto/howto_js_display_checkbox_text.asp)
+- [Stack Overflow - Compiling Static Library in Linux](https://stackoverflow.com/questions/2734719/how-to-compile-a-static-library-in-linux)
 
 ### Security
 - [API Security Courses](https://university.apisec.ai/library)
