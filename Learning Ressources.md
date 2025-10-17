@@ -1,5 +1,21 @@
 # Learning Ressources
-## TOC
+
+## Table of Contents
+- [Mathematics](#mathematics)
+  - [Algebra](#algebra)
+  - [Probability](#probability)
+- [Computer Science](#computer-science)
+  - [Security](#security)
+  - [LLMs](#llms)
+  - [Typing](#typing)
+  - [Computer Architecture](#computer-architecture)
+  - [Machine Learning](#machine-learning)
+  - [Deep Learning](#deep-learning)
+  - [Data Science](#data-science)
+  - [Cloud](#cloud)
+- [Management](#management)
+  - [Project Management](#project-management)
+  - [Negotiation](#negotiation)
 
 ## Mathematics
 ### Algebra
@@ -45,9 +61,9 @@
 &nbsp;  
 &nbsp;  
 ## Management
-### Project Mangement
+### Project Management
 - [Google Certification](https://www.coursera.org/professional-certificates/google-project-management)
 
-### Négocation
+### Negotiation
 - [Ne coupez jamais la poire en deux](https://www.fnac.com/a13646988/Chris-Voss-Ne-coupez-jamais-la-poire-en-deux?oref=00000000-0000-0000-0000-000000000000&storecode=6910&Origin=SEA_GOOGLE_PLA_BOOKS&esl-k=google-ads%7Cnx%7Cc%7Cm%7Ck%7Cp%7Ct%7Cdc%7Ca20111491090%7Cg20111491090&gclsrc=aw.ds&gad_source=1&gad_campaignid=19663887777&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjyBvlReI-J_RMBi8Y7yscZFDXg8I_y4B0dZUSF75gjabaYKQFKGBgYaAgY2EALw_wcB)
 - 
