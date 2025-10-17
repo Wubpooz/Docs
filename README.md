@@ -15,6 +15,8 @@ Documentation and learning resources repository.
 - [arXiv.org - Scientific Papers](https://arxiv.org/)
 - [Cambridge Dictionary](https://dictionary.cambridge.org/)
 - [Encyclopaedia Britannica Online](http://onlinebooks.library.upenn.edu/webbin/metabook?id=britannica11)
+- [Google Patents](https://patents.google.com/)
+- [Explainpaper - AI Research Paper Tool](https://www.explainpaper.com/)
 
 ### Tools
 - [Photopea - Online Photo Editor](https://www.photopea.com/)

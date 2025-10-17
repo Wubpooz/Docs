@@ -6,6 +6,7 @@
   - [Probability](#probability)
   - [Analysis](#analysis)
   - [Mathematical Reference](#mathematical-reference)
+  - [Real Analysis & Foundations](#real-analysis--foundations)
 - [Computer Science](#computer-science)
   - [Programming & Web Development](#programming--web-development)
   - [Advanced Computer Science](#advanced-computer-science)
@@ -43,6 +44,14 @@
 ### Mathematical Reference
 - [Wolfram MathWorld - Kronecker Delta](https://mathworld.wolfram.com/KroneckerDelta.html)
 - [École Polytechnique - Math Exercises](http://www.math.polytechnique.fr/perso/harinck/formationEV2.html)
+- [NUMDAM - French Mathematical Publications Archive](http://www.numdam.org/)
+- [Archives Bourbaki](http://sites.mathdoc.fr/archives-bourbaki/)
+- [OEIS - Online Encyclopedia of Integer Sequences](https://oeis.org/A000041)
+
+### Real Analysis & Foundations
+- [Real Numbers (Les Nombres Réels) - ENS](http://culturemath.ens.fr/maths/pdf/logique/reels.pdf)
+- [Real Numbers via Dedekind Cuts - ENS](http://culturemath.ens.fr/maths/pdf/logique/RviaDedekind.pdf)
+- [Derivation and Differential Calculus - ENS](http://culturemath.ens.fr/maths/pdf/analyse/derivation.pdf)
 
 &nbsp;  
 &nbsp;  
@@ -66,6 +75,9 @@
 
 ### Advanced Computer Science
 - [MPRI - Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/)
+- [École Polytechnique - INF550 Advanced Algorithms](https://www.enseignement.polytechnique.fr/informatique/INF550/)
+- [INRIA - INF564 Compilation Course](http://cambium.inria.fr/~fpottier/X/INF564/)
+- [INRIA - Fundamental Computer Science](http://pauillac.inria.fr/~levy/courses/X/IF/poly/index.html)
 
 ### Security
 - [API Security Courses](https://university.apisec.ai/library)
@@ -128,6 +140,7 @@
 - [IOGS - Catalogue des Cours](http://paristech.institutoptique.fr/index.php?domaine=149)
 - [Online Physics Classes Guide](https://docs.google.com/document/u/0/d/1CW8sE9ywo62TN0KBZ6tZdhfpyfhgVe2CL6uUotVR1W0/mobilebasic)
 - [École Polytechnique - MAT567 Diffusion Equations](http://www.cmls.polytechnique.fr/perso/golse/mat567.html)
+- [École Polytechnique - Kinetic Models (Statistical Physics)](http://www.cmls.polytechnique.fr/perso/golse/M2.html)
 
 &nbsp;  
 &nbsp;  
