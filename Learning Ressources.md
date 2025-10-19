@@ -16,6 +16,7 @@
   - [Computer Architecture](#computer-architecture)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
+  - [Quantum Computing](#quantum-computing)
   - [Data Science](#data-science)
   - [Cloud](#cloud)
 - [Management](#management)
@@ -73,6 +74,7 @@
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
 - [NVIDIA GauGAN - AI Image Generation](http://nvidia-research-mingyuliu.com/gaugan/)
 - [HackerRank - Coding Practice & Interview Prep](https://www.hackerrank.com/)
+- [cppreference.com - C++ Reference](https://en.cppreference.com/)
 
 ### Advanced Computer Science
 - [MPRI - Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/)
@@ -108,6 +110,9 @@
 - [Coursera Specialization](https://www.coursera.org/specializations/deep-learning)
 - [Uncertainty in Deep Learning Paper List](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning)
 - [GANspace: Discovering Interpretable GAN Controls](https://github.com/harskish/ganspace)
+
+### Quantum Computing
+- [Brilliant - Quantum Computing Course](https://brilliant.org/courses/quantum-computing/)
 
 ### Data Science
 - [John Hopkins Specialization](https://www.coursera.org/specializations/jhu-data-science)
