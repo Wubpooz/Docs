@@ -17,6 +17,8 @@ Documentation and learning resources repository.
 - [Encyclopaedia Britannica Online](http://onlinebooks.library.upenn.edu/webbin/metabook?id=britannica11)
 - [Google Patents](https://patents.google.com/)
 - [Explainpaper - AI Research Paper Tool](https://www.explainpaper.com/)
+- [JSTOR - Academic Journal Archive](https://www.jstor.org/)
+- [Harvard Academic Resource Center](https://academicresourcecenter.harvard.edu/)
 
 ### Tools
 - [Photopea - Online Photo Editor](https://www.photopea.com/)

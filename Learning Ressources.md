@@ -72,6 +72,7 @@
 - [OpenGL Tutorials - Song Ho Ahn](http://www.songho.ca/opengl/index.html)
 - [OpenAI Codex](https://openai.com/blog/openai-codex/)
 - [NVIDIA GauGAN - AI Image Generation](http://nvidia-research-mingyuliu.com/gaugan/)
+- [HackerRank - Coding Practice & Interview Prep](https://www.hackerrank.com/)
 
 ### Advanced Computer Science
 - [MPRI - Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/)
