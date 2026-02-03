@@ -1,34 +1,41 @@
 # Learning Ressources
 
 ## Table of Contents
-- [Mathematics](#mathematics)
-  - [Algebra](#algebra)
-  - [Probability](#probability)
-  - [Analysis](#analysis)
-  - [Mathematical Reference](#mathematical-reference)
-  - [Real Analysis & Foundations](#real-analysis--foundations)
-- [Computer Science](#computer-science)
-  - [Programming & Web Development](#programming--web-development)
-  - [Advanced Computer Science](#advanced-computer-science)
-  - [Security](#security)
-  - [LLMs](#llms)
-  - [Typing](#typing)
-  - [Computer Architecture](#computer-architecture)
-  - [Machine Learning](#machine-learning)
-  - [Deep Learning](#deep-learning)
-  - [Quantum Computing](#quantum-computing)
-  - [Data Science](#data-science)
-  - [Cloud](#cloud)
-- [Management](#management)
-  - [Project Management](#project-management)
-  - [Negotiation](#negotiation)
-- [Classes Préparatoires (CPGE)](#classes-préparatoires-cpge)
-- [Physics](#physics)
-- [Languages](#languages)
-  - [Arabic](#arabic)
-  - [African Languages](#african-languages)
-  - [General](#general)
-- [Medicine & Health](#medicine--health)
+- [Learning Ressources](#learning-ressources)
+  - [Table of Contents](#table-of-contents)
+  - [Mathematics](#mathematics)
+    - [Algebra](#algebra)
+    - [Probability](#probability)
+    - [Analysis](#analysis)
+    - [Mathematical Reference](#mathematical-reference)
+    - [Real Analysis \& Foundations](#real-analysis--foundations)
+  - [Computer Science](#computer-science)
+    - [Programming \& Web Development](#programming--web-development)
+    - [Advanced Computer Science](#advanced-computer-science)
+    - [Security](#security)
+    - [LLMs](#llms)
+    - [Typing](#typing)
+    - [Computer Architecture](#computer-architecture)
+    - [Machine Learning](#machine-learning)
+    - [Deep Learning](#deep-learning)
+    - [Quantum Computing](#quantum-computing)
+    - [Data Science](#data-science)
+    - [Cloud](#cloud)
+    - [Google Courses](#google-courses)
+      - [Certificates](#certificates)
+      - [Google Cloud AI \& ADK Codelabs](#google-cloud-ai--adk-codelabs)
+  - [Management](#management)
+    - [Project Management](#project-management)
+    - [Negotiation](#negotiation)
+  - [Classes Préparatoires (CPGE)](#classes-préparatoires-cpge)
+  - [Physics](#physics)
+  - [Languages](#languages)
+    - [Arabic](#arabic)
+    - [African Languages](#african-languages)
+    - [General](#general)
+  - [Medicine \& Health](#medicine--health)
+
+
 
 ## Mathematics
 ### Algebra
@@ -53,6 +60,8 @@
 - [Real Numbers (Les Nombres Réels) - ENS](http://culturemath.ens.fr/maths/pdf/logique/reels.pdf)
 - [Real Numbers via Dedekind Cuts - ENS](http://culturemath.ens.fr/maths/pdf/logique/RviaDedekind.pdf)
 - [Derivation and Differential Calculus - ENS](http://culturemath.ens.fr/maths/pdf/analyse/derivation.pdf)
+
+
 
 &nbsp;  
 &nbsp;  
@@ -122,6 +131,32 @@
 ### Cloud
 - [Advanced Machine Learning on Google Cloud](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 
+### Google Courses
+- **[Deloitte - Build a Multi-Agent Campaign System with ADK and Agent Engine](https://explore.qwiklabs.com/focuses/107809/materials)**
+&nbsp;  
+
+#### Certificates
+- [Accelerate Your Job Search with AI](https://www.skills.google/paths/2762/course_templates/1383)
+- [Google Cybersecurity Certificate](https://www.skills.google/paths/2268?catalog_rank=%7B%22rank%22%3A66%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D)
+- [Google Project Management Certificate](https://www.skills.google/paths/2272?catalog_rank=%7B%22rank%22%3A70%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D)
+
+
+&nbsp;  
+#### Google Cloud AI & ADK Codelabs
+- [Google Cloud - Evaluate RAG systems with Vertex AI](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/6-ai-evaluation/evaluate-rag-systems-with-vertex-ai?hl=en#2)
+- [Android AI Overview](https://developer.android.com/courses/pathways/android-ai-overview?hl=en)
+- [Deploy, Manage, and Observe ADK on Cloud Run](https://codelabs.developers.google.com/deploy-manage-observe-adk-cloud-run?hl=en#0)
+- [ADK Multimodal Tool Part 2](https://codelabs.developers.google.com/adk-multimodal-tool-part-2?hl=en#0)
+- [Deploy ADK Agents to GKE](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/5-deploying-agents/deploy-adk-agents-to-gke?hl=en#0)
+- [Basic OTEL Plugin for gRPC in Go](https://codelabs.developers.google.com/grpc/basic-otel-plugin-grpc-go?hl=en#0)
+- [Deploy an ADK Agent to Cloud Run](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/5-deploying-agents/deploy-an-adk-agent-to-cloud-run?hl=en#0)
+- [Securing AI Applications](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/4-securing-ai-applications/securing-ai-applications?hl=en#0)
+- [ADK Eval Instructions](https://codelabs.developers.google.com/adk-eval/instructions?hl=en#0)
+- [ADK Course Instructions](https://codelabs.developers.google.com/adkcourse/instructions?hl=en#0)
+- [Build a Multi-Agent System with ADK](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk?hl=en&authuser=0#1)
+
+
+
 &nbsp;  
 &nbsp;  
 ## Management
@@ -130,7 +165,9 @@
 
 ### Negotiation
 - [Ne coupez jamais la poire en deux](https://www.fnac.com/a13646988/Chris-Voss-Ne-coupez-jamais-la-poire-en-deux?oref=00000000-0000-0000-0000-000000000000&storecode=6910&Origin=SEA_GOOGLE_PLA_BOOKS&esl-k=google-ads%7Cnx%7Cc%7Cm%7Ck%7Cp%7Ct%7Cdc%7Ca20111491090%7Cg20111491090&gclsrc=aw.ds&gad_source=1&gad_campaignid=19663887777&gclid=Cj0KCQjwl5jHBhDHARIsAB0YqjyBvlReI-J_RMBi8Y7yscZFDXg8I_y4B0dZUSF75gjabaYKQFKGBgYaAgY2EALw_wcB)
-- 
+
+
+
 
 &nbsp;  
 &nbsp;  
@@ -138,6 +175,8 @@
 - [FIMFA - Polycopiés de cours ENS](http://www.math.ens.fr/enseignement/archives_pedagogiques.html?type=1)
 - [Sujets de Concours Maths CPGE](http://concours-maths-cpge.fr/)
 - [Forum Prepas.org - Corrections & Discussions](https://forum.prepas.org/)
+
+
 
 &nbsp;  
 &nbsp;  
@@ -147,6 +186,8 @@
 - [Online Physics Classes Guide](https://docs.google.com/document/u/0/d/1CW8sE9ywo62TN0KBZ6tZdhfpyfhgVe2CL6uUotVR1W0/mobilebasic)
 - [École Polytechnique - MAT567 Diffusion Equations](http://www.cmls.polytechnique.fr/perso/golse/mat567.html)
 - [École Polytechnique - Kinetic Models (Statistical Physics)](http://www.cmls.polytechnique.fr/perso/golse/M2.html)
+
+
 
 &nbsp;  
 &nbsp;  
@@ -161,6 +202,8 @@
 
 ### General
 - [Varieties of Arabic - Wikipedia](https://en.wikipedia.org/wiki/Varieties_of_Arabic)
+
+
 
 &nbsp;  
 &nbsp;  
