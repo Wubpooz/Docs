@@ -18,3 +18,10 @@
 - [Briar - Official Site](https://briarproject.org/)
 - [Haven - Mesh Radio](https://buildwithparallel.com/products/haven)
 - [Haven - YouTube](https://youtu.be/nWszlmgOdYc?si=6aI87wpfIj1XxKFz)
+https://youtube.com/watch?v=6QUVzvhEhu4
+
+
+https://youtube.com/watch?v=o32i22HNxhc
+https://youtube.com/watch?v=0zSKSiJbVqw
+https://youtube.com/watch?v=OU0v_G3-4Hw
+https://youtube.com/watch?v=u6qKu_PbNIY
