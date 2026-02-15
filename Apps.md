@@ -1,217 +1,216 @@
-# CLI Reference: fzf, fd (fd-find), rg (ripgrep), zoxide
+# Apps
 
-This document summarizes the newly installed CLI tools from clis.txt and provides practical command usage with common options (similar to a concise --help).
+## Table of Contents
+- [Apps](#apps)
+  - [Table of Contents](#table-of-contents)
+  - [Apps](#apps-1)
+    - [Development](#development)
+    - [Browsers](#browsers)
+    - [Media \& Creative](#media--creative)
+    - [Productivity](#productivity)
+    - [System \& Utilities](#system--utilities)
+    - [Communication](#communication)
+    - [Gaming](#gaming)
+    - [Other](#other)
+  - [CLIs](#clis)
+    - [Development \& Build Tools](#development--build-tools)
+    - [Version Control \& Deployment](#version-control--deployment)
+    - [Network \& System](#network--system)
+    - [Text Processing \& Search](#text-processing--search)
+    - [File Operations](#file-operations)
+    - [Media](#media)
+    - [Python](#python)
+    - [Document Processing](#document-processing)
+    - [Display Server](#display-server)
+    - [Advanced CLI Tools](#advanced-cli-tools)
 
-## fzf (fuzzy finder)
 
-### Overview
-- Interactive fuzzy finder for files, command output, and custom lists.
-- Typically combined with pipes or shell keybindings.
 
-### Core usage
-```bash
-# Fuzzy select from a list
-printf "alpha\nbravo\ncharlie\n" | fzf
+## Apps
 
-# Fuzzy select files in current directory
-fzf
+### Development
+- VS Code
+- IntelliJ IDEA
+- Git
+- Github Desktop & CLI
+- Docker Desktop
+- Podman
+- NodeJS
+- Bun
+- Python3
+- Postman
+- Terminal
+- Copilot CLI
+- MiKTeX
 
-# Fuzzy select files recursively from a directory
-find . -type f | fzf
-```
+### Browsers
+- Vivaldi
+- Firefox
+- DuckDuckGo
+- Tor Browser
 
-### Common options
-```bash
-# Start with an initial query
-fzf --query="src"
+### Media & Creative
+- Spotify
+- OBS Studio
+- Audacity
+- MuseScore
+- MuseHub
+- Luminar Neo
+- Inkscape
+- VLC
+- iThunes
 
-# Exact match only
-fzf --exact
+### Productivity
+- Obsidian
+- Zotero
+- Tropy
+- TickTick
+- PowerToys
+- Oh My Posh
+- Clink
+- Rainmeter
+- Everything
 
-# Reverse layout (prompt at top)
-fzf --layout=reverse
+### System & Utilities
+- TreeSize
+- WinDirStat
+- Explorer Patcher
+- Winaero Tweaker
+- Auto Dark Mode
+- VcXsrv
+- Tailscale
+- VMware Workstation
 
-# Show a header
-fzf --header="Select an item"
+### Communication
+- WhatsApp
+- iCloud
+- Appareils Apple
 
-# Preview the selected file (if bat is installed, otherwise use sed/head)
-find . -type f | fzf --preview 'sed -n "1,200p" {}'
+### Gaming
+- Epic Games Launcher
+- Battle.net
+- Steam
 
-# Multi-select with tab
-find . -type f | fzf --multi
-```
+### Other
+- Cisco Packet Tracer
+- Sweet Home 3D
+- LocalSend
+- Jeex
 
-### Useful combos
-```bash
-# Select a file and open in editor
-file=$(find . -type f | fzf) && [ -n "$file" ] && ${EDITOR:-vim} "$file"
 
-# Select a git-tracked file
-git ls-files | fzf
-```
+&nbsp;  
+&nbsp;  
 
-## fd (fd-find)
+## CLIs
 
-### Overview
-- Fast, user-friendly alternative to find.
-- On Debian, binary is typically named `fdfind`.
-- You can use `fdfind` directly or symlink `fd` if you prefer.
+### Development & Build Tools
+- `gcc` / `g++` - GNU C/C++ compiler
+- `cpp` - C preprocessor
+- `cmake` - Cross-platform build system
+- `mpicc` / `ompi` - MPI compiler wrappers
+- `ocaml` - OCaml compiler
+- `z3` - SMT solver
 
-### Core usage
-```bash
-# Find files with name containing "report"
-fdfind report
+### Version Control & Deployment
+- `git` - Version control system
+- `docker` - Container platform
+- `kubectl` - Kubernetes CLI
 
-# Find files by extension
-fdfind -e md
+### Network & System
+- `curl` - Transfer data with URLs
+  ```bash
+  curl https://api.example.com/data      # Fetch data from URL
+  curl -X POST -H "Content-Type: application/json" -d '{"key":"value"}' URL  # POST request
+  curl -o file.zip https://example.com/file.zip  # Download and save file
+  ```
+- `ping` - Test network connectivity
+- `netstat` - Network statistics
+  ```bash
+  netstat -tuln                          # Show listening ports
+  netstat -an | grep ESTABLISHED         # Show established connections
+  netstat -r                             # Display routing table
+  ```
+- `ssh` - Secure shell client
+  ```bash
+  ssh user@hostname                      # Connect to remote server
+  ssh -i ~/.ssh/key.pem user@host        # Connect with specific key
+  ssh user@host "ls -la"                 # Execute remote command
+  ```
+- `tailscale` - VPN mesh network
+  ```bash
+  tailscale up                           # Connect to Tailscale network
+  tailscale status                       # Show connection status
+  tailscale ip -4                        # Show your Tailscale IPv4
+  ```
+- `openssl` - SSL/TLS toolkit
 
-# Find in a specific directory
-fdfind report /path/to/search
-```
+### Text Processing & Search
+- `sed` - Stream editor
+- `grep` - Pattern matching
+- `vim` - Text editor
+- `man` - Manual pages
 
-### Common options
-```bash
-# Case-insensitive search
-fdfind -i report
+### File Operations
+- `unzip` - Extract ZIP archives
+- `bzcmp` - Compare compressed files
+  ```bash
+  bzcmp file1.bz2 file2.bz2              # Compare two bzip2 files
+  bzcmp file1.bz2 file2.txt              # Compare compressed with uncompressed
+  bzcmp -s file1.bz2 file2.bz2           # Silent (exit code only)
+  ```
+- `cmp` - Compare files byte-by-byte
+- `objdump` - Display object file info
+  ```bash
+  objdump -d binary                      # Disassemble executable
+  objdump -h binary                      # Display section headers
+  objdump -t binary                      # Display symbol table
+  ```
 
-# Exact match (no fuzzy/partial)
-fdfind -g "report.txt"
+### Media
+- `ffmpeg` - Multimedia framework
+  ```bash
+  ffmpeg -i input.mp4 output.avi         # Convert video format
+  ffmpeg -i video.mp4 -ss 00:00:10 -t 00:00:05 clip.mp4  # Extract 5s clip at 10s
+  ffmpeg -i input.mp4 -vn -ar 44100 -ac 2 output.mp3  # Extract audio to MP3
+  ```
 
-# Search for directories only
-fdfind -t d logs
+### Python
+- `python3` - Python interpreter
+- `pip` - Python package manager
 
-# Search for files only
-fdfind -t f report
+### Document Processing
+- `prince` - HTML to PDF converter
 
-# Include hidden files and ignore .gitignore
-fdfind -H -I pattern
+### Display Server
+- X11 / Wayland - Display server protocols
 
-# Exclude a directory
-fdfind pattern --exclude node_modules
 
-# Show full path
-fdfind pattern -a
+### Advanced CLI Tools
+- `fzf` - fuzzy finder, for interactive filtering
+  ```bash
+  find . -type f | fzf                    # Fuzzy select files
+  fzf --multi --preview 'head {}'         # Multi-select with preview
+  git ls-files | fzf                      # Select from git-tracked files
+  ```
+- `fd` ou `fd-find` - Fast and user-friendly alternative to `find`
+  ```bash
+  fdfind report                           # Find files matching "report"
+  fdfind --exact "notes.txt"                    # Exact filename match
+  fdfind --query "pattern" -x grep -i "pattern" {} \;  # Search file contents
+  fdfind -e md -t f                       # Find all markdown files
+  fdfind -H -I pattern                    # Include hidden & ignored files
+  ```
+- `rg` - ripgrep, recursive search tool that respects .gitignore
+  ```bash
+  rg "pattern"                            # Search in current directory
+  rg -i "pattern" -g "*.md"               # Case-insensitive in markdown files
+  rg -l "pattern"                         # List filenames with matches
+  ```
 
-# Execute a command for each result
-fdfind -e txt -x wc -l
-```
-
-### Useful combos
-```bash
-# Combine fd with fzf
-fdfind -t f | fzf
-
-# Find and open
-fdfind -e md -x ${EDITOR:-vim} {}
-```
-
-## rg (ripgrep)
-
-### Overview
-- Fast recursive grep with sensible defaults and .gitignore support.
-
-### Core usage
-```bash
-# Search for a literal string in the current directory
-rg "needle"
-
-# Search in a specific file
-rg "needle" path/to/file.txt
-
-# Search only in specific file types
-rg "needle" -g "*.md"
-```
-
-### Common options
-```bash
-# Case-insensitive search
-rg -i "needle"
-
-# Fixed string (no regex)
-rg -F "needle"
-
-# Show line numbers
-rg -n "needle"
-
-# Context lines before/after match
-rg -C 2 "needle"
-
-# Only list filenames with matches
-rg -l "needle"
-
-# Invert match (show lines that do NOT match)
-rg -v "needle"
-
-# Include hidden files and ignore .gitignore
-rg --hidden --no-ignore "needle"
-
-# Search in a specific directory
-rg "needle" /path/to/search
-```
-
-### Useful combos
-```bash
-# Pipe matches into fzf for selection
-rg -n "needle" | fzf
-
-# Count matches
-rg -c "needle"
-```
-
-## zoxide
-
-### Overview
-- Smarter `cd` with automatic directory ranking based on usage.
-- Needs shell init to enable `z` and `zi`.
-
-### Shell setup (bash)
-```bash
-# Add to ~/.bashrc
-export PATH="$HOME/.local/bin:$PATH"
-eval "$(zoxide init bash)"
-```
-
-### Shell setup (zsh)
-```bash
-# Add to ~/.zshrc
-export PATH="$HOME/.local/bin:$PATH"
-eval "$(zoxide init zsh)"
-```
-
-### Core usage
-```bash
-# Jump to a directory by fuzzy rank
-z project
-
-# Jump with interactive selection
-zi project
-
-# Add a directory explicitly
-zoxide add /path/to/dir
-
-# Remove a directory from the database
-zoxide remove /path/to/dir
-
-# Show current database entries
-zoxide query -l
-```
-
-### Common options
-```bash
-# Show best match only
-zoxide query project
-
-# Show interactive query (fzf-style, if installed)
-zoxide query -i
-
-# Show output suitable for scripting
-zoxide query --json
-```
-
-## Notes
-- On Debian, `fd` is `fdfind`. You can create a symlink if desired:
-```bash
-mkdir -p ~/.local/bin
-ln -s $(command -v fdfind) ~/.local/bin/fd
-```
-- If you use fzf frequently, consider enabling shell keybindings for history and file completion (see `man fzf`).
+- `zoxide` - smart directory jumper that learns your habits. 
+  Requires: `eval "$(zoxide init bash)"` in `.bashrc`.
+  ```bash
+  z project                               # Jump to most-used project directory
+  zi                                      # Interactive directory selection
+  zoxide query -l                         # List tracked directories
+  ```
