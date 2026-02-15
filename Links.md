@@ -35,6 +35,14 @@ Documentation and learning resources repository.
 - [Mermaid Live Editor - Flowcharts & Diagrams](https://mermaid.live)
 - [MuscleWiki - Exercise Guide](https://musclewiki.com/)
 - [List of LaTeX Mathematical Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+- [Focus Bibliographic Search](https://focus.universite-paris-saclay.fr/)
+- [Cairn - SHS Library](https://shs.cairn.info/)
+- [Europresse](https://www.europresse.com/)
+- [ScholarVox](https://www.scholarvox.com/)
+- [SciFinder (CAS)](https://scifinder.cas.org/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Techniques de l'ingénieur](https://www.techniques-ingenieur.fr/)
+- [Web of Science](https://www.webofscience.com/)
 
 ### LaTeX Resources
 - [Overleaf LaTeX Templates](https://www.overleaf.com/latex/templates)
