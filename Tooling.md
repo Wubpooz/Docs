@@ -9,7 +9,56 @@
 5) SysReptor: analysis notes and reports
 6) LateX (Overleaf online, self-hosted or Miktex): serious reports
 
-Figma
-Exalidraw
-PlantUML. 
-Mermaid. 
+## Office
+
+## Recherches
+
+## Hacking
+
+## Dev
+
+## Security
+
+## ?
+Sideloady   
+LocalSend  
+ExplorerPatcher  
+
+PowerToys  
+
+Figma  
+Exalidraw  
+PlantUML    
+Mermaid  
+
+Zotero  
+
+Github copilot CLI  
+Zed  
+Vscode  
+Terminal  
+
+Perplexity  
+notbookLM  
+
+Audacity  
+
+Docker or Podman  
+
+Gitea or Forgejo or Github  
+
+MuseScore  
+
+Tailscale  
+
+TOR  
+
+Bun  
+Hono  
+
+Treesize  
+
+Tropy  
+
+WSL   
+
