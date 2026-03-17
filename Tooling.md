@@ -58,7 +58,29 @@ Hono
 
 Treesize  
 
+icloud  
+
 Tropy  
 
+signal  
+
+
+feedly  
+ticktick  
+dailylife  
+camscanner  
+protonvpn  
+jenji  
+vivaldi  
+duckduckgo  
+phyphox  
+
 WSL   
+inci beauty  
+livi  
+arts&culture  
+neuecast  
+bookshelf  
+
+thera
 
