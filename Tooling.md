@@ -294,3 +294,6 @@ https://github.com/kamranahmedse/developer-roadmap
 https://github.com/trimstray/the-book-of-secret-knowledge
 https://github.com/cia-foundation/TempleOS
 https://github.com/valinet/ExplorerPatcher
+https://www.simon-kucher.com/en (for news?)
+https://github.com/PetroIvaniuk/llms-tools
+https://github.com/rasbt/LLMs-from-scratch
